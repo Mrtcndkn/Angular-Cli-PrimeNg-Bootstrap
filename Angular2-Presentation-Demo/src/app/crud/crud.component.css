@@ -1,0 +1,11 @@
+.ui-grid-row div {
+  padding: 4px 10px
+}
+
+.ui-grid-row div label {
+  font-weight: bold;
+}
+
+.datatable {
+    margin-top: 50px;
+}
